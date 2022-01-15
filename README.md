@@ -1,5 +1,1 @@
-# Hey There
-
-## I'm currently working on
-
-
+## Learning right now, see ya.
