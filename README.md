@@ -1,5 +1,5 @@
 ## Portfolio
-[My Portfolio](https://SpectreFury.github.io/)
+[My Portfolio](https://www.spectrefury.in)
 
 ## About Me
 I love to work with Next.js and I am having a blast contributing to Open Source projects. I am currently building **Fenced**, an Attendance app that will revolutionize the way attendance is marked. Feel free to reach out to me for anything.
