@@ -2,7 +2,7 @@
 [My Portfolio](https://www.spectrefury.in)
 
 ## About Me
-I love to work with Next.js and I am having a blast contributing to Open Source projects. I am currently building **Fenced**, an Attendance app that will revolutionize the way attendance is marked. Feel free to reach out to me for anything.
+Learning Go and making projects in Next.js these days.
 
 ## Technologies I know
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
