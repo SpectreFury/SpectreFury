@@ -2,7 +2,7 @@
 [My Portfolio](https://www.spectrefury.in)
 
 ## About Me
-Learning Go and making projects in Next.js these days.
+SDE @Veramasa | Learning Go.
 
 ## Technologies I know
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
