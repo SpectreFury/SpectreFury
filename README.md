@@ -2,7 +2,7 @@
 [My Portfolio](https://www.spectrefury.in)
 
 ## About Me
-Software Development Engineer @ Cointab | Learning Go and OpenGL
+Software Development Engineer | Learning Go and OpenGL
 
 ## Technologies I know
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
